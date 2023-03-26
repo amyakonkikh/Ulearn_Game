@@ -1,1 +1,1 @@
-# Ulearn_Game
+# Ulearn_Game - игра для проекта
